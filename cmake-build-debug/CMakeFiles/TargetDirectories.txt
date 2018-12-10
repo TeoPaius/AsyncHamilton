@@ -1,0 +1,3 @@
+D:/faculta an3/paralele/lab8/cmake-build-debug/CMakeFiles/lab8.dir
+D:/faculta an3/paralele/lab8/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/faculta an3/paralele/lab8/cmake-build-debug/CMakeFiles/rebuild_cache.dir

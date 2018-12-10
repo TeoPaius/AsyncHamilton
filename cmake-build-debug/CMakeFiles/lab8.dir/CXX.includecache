@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/faculta an3/paralele/lab8/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+future
+-
+unistd.h
+-
+chrono
+-
+thread
+-
+
